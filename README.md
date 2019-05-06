@@ -6,7 +6,7 @@
 
 [**Pandas MultiIndex**](https://github.com/urwinday/data_science_practice/blob/master/02_pandas-2_multiIndex.ipynb)
 
-[**Matplotlib Seaborn**](https://github.com/urwinday/data_science_practice/blob/master/03-matplotlib_seaborn.ipynb)
+[**Visualization Matplotlib Seaborn**](https://github.com/urwinday/data_science_practice/blob/master/03-matplotlib_seaborn.ipynb)
 
 [**ML Classificator (DecisionTreeClassifier)**](https://github.com/urwinday/data_science_practice/blob/master/04-ML_classificator.ipynb)
 
