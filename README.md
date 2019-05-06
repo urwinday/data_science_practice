@@ -1,6 +1,6 @@
 ## data_science_practice
 
-**[NumPy]**(https://github.com/urwinday/data_science_practice/blob/master/01-numpy_OLAP_cube.ipynb)
+[**NumPy**](https://github.com/urwinday/data_science_practice/blob/master/01-numpy_OLAP_cube.ipynb)
 
 **Pandas**
 
