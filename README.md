@@ -16,7 +16,7 @@
 
 [**ML Regression(LinearRegression, Lasso, Ridge, ElasticNet)**](https://github.com/urwinday/data_science_practice/blob/master/07-ML_LinearRegression.ipynb)
 
-[**Natural Language Processing (TfidfVectorizer, LogisticRegressionCV)**](https://github.com/urwinday/Natural-Language-Processing/blob/master/08-ML-Natural_Language_Processing.ipynb)
+[**ML Natural Language Processing (TfidfVectorizer, LogisticRegressionCV)**](https://github.com/urwinday/Natural-Language-Processing/blob/master/08-ML-Natural_Language_Processing.ipynb)
 
 [**ML Logistic Regression**](https://github.com/urwinday/data_science_practice/blob/master/09-ML_LogisticRegression.ipynb)
 
